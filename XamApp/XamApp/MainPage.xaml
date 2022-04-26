@@ -3,6 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamApp.MainPage">
 
+    
+    <!--something changes in this project-->
+    
+    
+    
     <ScrollView>
         <Grid RowDefinitions="Auto,Auto,Auto">
             <StackLayout Orientation="Vertical" Grid.Row="0">
